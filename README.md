@@ -92,13 +92,10 @@ src
 
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los cambios propuestos antes de realizar un pull request.
 
-## Licencia
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Contacto
 
-<a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target="_blank">
+- Correo electrónico: ivanseba.nez20@gmail.com
+- LinkedIn: [Iván S. Nuñez](https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)
 
-Enlace del proyecto: [https://github.com/tuusuario/qr-code-project](https://github.com/IvanSebastian21/QRCode/edit/main/README.md)
+Enlace del proyecto: [https://github.com/IvanSebastian21/QRCode/main/README.md](https://github.com/IvanSebastian21/QRCode/main/README.md)
 

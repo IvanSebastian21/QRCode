@@ -1,4 +1,3 @@
-# QRCode
 Microservice generated QRCode
 
 # QR Code Generator and Reader
@@ -74,9 +73,9 @@ src
 └── main
     └── java
         └── com
-            └── example
-                └── qrcodedemo
-                    ├── QrCodeDemoApplication.java
+            └── myApp
+                └── qrcode
+                    ├── QrCodeApplication.java
                     ├── controller
                     │   └── QRCodeController.java
                     └── service
@@ -99,7 +98,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los c
 
 ## Contacto
 
-Tu Nombre - [@tutwitter](https://twitter.com/tutwitter) - tu@email.com
+<a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target="_blank">
 
-Enlace del proyecto: [https://github.com/tuusuario/qr-code-project](https://github.com/tuusuario/qr-code-project)
+Enlace del proyecto: [https://github.com/tuusuario/qr-code-project](https://github.com/IvanSebastian21/QRCode/edit/main/README.md)
 

@@ -21,7 +21,7 @@ Este proyecto es una aplicación Spring Boot que proporciona servicios para gene
 
 1. Clona el repositorio:
    ```
-   git clone https://github.com/tuusuario/qr-code-project.git
+   git clone https://github.com/IvanSebastian21/QRCode.git
    ```
 
 2. Navega al directorio del proyecto:
